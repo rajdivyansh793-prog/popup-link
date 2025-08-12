@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Clickable Link with Popup</title>
+</head>
+<body>
+
+<a href="#" onclick="alert('AASTHAA I AM REALLYYYY REALLLYYYYY SORRYYYYYY, PLEASEEEEEEEEE BAAAT KARLOOOOOOOOOO'); return false;">
+    Click me!
+</a>
+
+</body>
+</html>
